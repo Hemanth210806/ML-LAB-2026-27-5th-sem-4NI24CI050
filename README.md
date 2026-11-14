@@ -47,14 +47,13 @@ The goal of this repository is to build a strong practical understanding of Mach
 
 | 🔢 | 📓 Experiment / Activity | 📌 Focus Area |
 |:---:|---|---|
-| 01 | `act1.ipynb` | Machine Learning Activity 1 |
-| 02 | `act2.ipynb` | Machine Learning Activity 2 |
-| 03 | `exp1.ipynb` | Machine Learning Experiment 1 |
-| 04 | `exp2kfold.ipynb` | K-Fold Cross Validation |
-| 05 | `exp3_2deg_poly.ipynb` | Polynomial Regression |
-| 06 | `exp4.ipynb` | Machine Learning Experiment 4 |
+| 01 | `activity_1.ipynb` | Machine Learning Activity 1 |
+| 02 | `experiment_1_linear-regression.ipynb` | Linear Regression |
+| 03 | `experiment_2_kfold.ipynb` | K-Fold Cross Validation |
+| 04 | `experiment_3_2degree_poly.ipynb` | Polynomial Regression (Degree 2) |
+| 05 | `experiment_4_regularization_lasso_ridge.ipynb` | Regularization using Lasso and Ridge |
 
-> 💡 Each notebook contains the implementation, observations, and results related to the respective experiment.
+> 💡 Each notebook contains the implementation, observations, and results related to the respective Machine Learning experiment.
 
 ---
 
