@@ -13,7 +13,7 @@ The purpose of this repository is to document my hands-on learning journey in Ma
 | Detail | Information |
 |---|---|
 | **Name** | Hemanth K M |
-| **USN** | 4NI24CI115 |
+| **USN** | 4NI24CI050 |
 | **Branch** | Computer Science and Engineering (AI & ML) |
 | **Semester** | 5th Semester |
 | **Academic Year** | 2026–27 |
@@ -38,14 +38,14 @@ The repository includes the following laboratory activities and experiments:
 
 ## 🛠️ Technologies and Libraries
 
-The experiments in this repository are implemented using:
-
-- 🐍 Python
-- 📓 Jupyter Notebook
-- 🔢 NumPy
-- 🐼 Pandas
-- 📊 Matplotlib
-- 🤖 Scikit-learn
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="45" alt="Jupyter Notebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn" />
+</p>
 
 ---
 
