@@ -1,74 +1,181 @@
-# Machine Learning Lab – 5th Semester
+<div align="center">
+
+# 🤖 Machine Learning Lab
+
+### *5th Semester | Academic Year 2026–27*
+
+A collection of Machine Learning laboratory experiments, implementations, and practical activities.
+
+<br>
+
+<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+
+</div>
+
+---
+
+## 👨‍💻 About This Repository
 
 Welcome to my **Machine Learning Laboratory** repository! 🚀
 
-This repository contains the programs, experiments, and practical activities completed as part of the **Machine Learning Lab** during my 5th semester.
+This repository contains the laboratory activities and experiments completed as part of the **Machine Learning course during the 5th semester**.
 
-The purpose of this repository is to document my hands-on learning journey in Machine Learning and the implementation of various concepts using Python.
-
----
-
-## 👨‍💻 Student Details
-
-| Detail | Information |
-|---|---|
-| **Name** | Hemanth K M |
-| **USN** | 4NI24CI050 |
-| **Branch** | Computer Science and Engineering (AI & ML) |
-| **Semester** | 5th Semester |
-| **Academic Year** | 2026–27 |
-| **College** | The National Institute of Engineering, Mysuru |
+The goal of this repository is to build a strong practical understanding of Machine Learning by implementing concepts, analysing data, training models, and evaluating their performance.
 
 ---
 
-## 📁 Repository Contents
+## 👤 Student Profile
 
-The repository includes the following laboratory activities and experiments:
+<div align="center">
 
-| File | Description |
-|---|---|
-| `act1.ipynb` | Machine Learning Laboratory Activity 1 |
-| `act2.ipynb` | Machine Learning Laboratory Activity 2 |
-| `exp1.ipynb` | Machine Learning Experiment 1 |
-| `exp2kfold.ipynb` | K-Fold Cross Validation Experiment |
-| `exp3_2deg_poly.ipynb` | Polynomial Regression Experiment |
-| `exp4.ipynb` | Machine Learning Experiment 4 |
+| 🎓 **Student Information** | |
+|:---|:---|
+| 👨‍💻 **Name** | Hemanth K M |
+| 🆔 **USN** | 4NI24CI050 |
+| 💻 **Branch** | Computer Science and Engineering – Artificial Intelligence & Machine Learning |
+| 🏛️ **Institution** | The National Institute of Engineering, Mysuru |
+| 📚 **Semester** | 5th Semester |
+| 📅 **Academic Year** | 2026–27 |
 
----
-
-## 🛠️ Technologies and Libraries
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="45" alt="Jupyter Notebook" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="NumPy" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="Matplotlib" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="45" alt="Scikit-learn" />
-</p>
+</div>
 
 ---
 
-## 🎯 What I Am Learning
+## 📂 Laboratory Experiments
 
-Through these laboratory exercises, I am exploring:
+| 🔢 | 📓 Experiment / Activity | 📌 Focus Area |
+|:---:|---|---|
+| 01 | `act1.ipynb` | Machine Learning Activity 1 |
+| 02 | `act2.ipynb` | Machine Learning Activity 2 |
+| 03 | `exp1.ipynb` | Machine Learning Experiment 1 |
+| 04 | `exp2kfold.ipynb` | K-Fold Cross Validation |
+| 05 | `exp3_2deg_poly.ipynb` | Polynomial Regression |
+| 06 | `exp4.ipynb` | Machine Learning Experiment 4 |
 
-- Fundamentals of Machine Learning
-- Data preprocessing and analysis
-- Different Machine Learning algorithms
-- Model training and testing
-- Cross-validation techniques
-- Regression and prediction models
-- Performance evaluation of ML models
-
----
-
-## 📌 Purpose of This Repository
-
-This repository is maintained for **academic and learning purposes**. Each notebook represents a practical implementation of concepts covered in the Machine Learning laboratory.
-
-I will continue updating this repository as I complete more experiments and explore new Machine Learning techniques.
+> 💡 Each notebook contains the implementation, observations, and results related to the respective experiment.
 
 ---
 
-### ⭐ Learning Machine Learning by experimenting, implementing, and improving every day!
+## 🧰 Tech Stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python"/><br>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="55" alt="Jupyter Notebook"/><br>
+<b>Jupyter</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="55" alt="NumPy"/><br>
+<b>NumPy</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="55" alt="Pandas"/><br>
+<b>Pandas</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="55" alt="Matplotlib"/><br>
+<b>Matplotlib</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="55" alt="Scikit-learn"/><br>
+<b>Scikit-learn</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🎯 Key Learning Areas
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧹 Data Preparation
+- Data preprocessing
+- Data analysis
+- Feature handling
+
+</td>
+<td width="50%">
+
+### 🤖 Machine Learning
+- Model building
+- Training and testing
+- Regression techniques
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📊 Model Evaluation
+- Performance analysis
+- Model comparison
+- Result interpretation
+
+</td>
+<td width="50%">
+
+### 🔄 Validation
+- K-Fold Cross Validation
+- Generalization
+- Model reliability
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Learning Journey
+
+```text
+Data 📊
+   │
+   ▼
+Preprocessing 🧹
+   │
+   ▼
+Model Training 🤖
+   │
+   ▼
+Evaluation 📈
+   │
+   ▼
+Insights 💡
+```
+
+---
+
+## 📌 Repository Purpose
+
+This repository is maintained for **academic and learning purposes**. It represents my practical journey in understanding and applying Machine Learning concepts.
+
+As I progress through the course, this repository will continue to grow with additional experiments, implementations, and improvements.
+
+---
+
+<div align="center">
+
+### ⭐ *Learn • Build • Experiment • Improve*
+
+**Machine Learning is best understood by building! 🚀**
+
+</div>
